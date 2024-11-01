@@ -1,4 +1,4 @@
-# `diff` Command in Go
+# `diff` command in Go
 
 This is a simple implementation of the `diff` command in Go. The program compares two text files and outputs the differences between their contents, line by line.
 
